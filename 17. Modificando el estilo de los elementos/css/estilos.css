@@ -1,0 +1,35 @@
+.thumb{
+  width: 200px;
+  transition: 300ms all ease;
+}
+
+.subtitulo{
+  border: 1px solid navy;
+  background: green;
+  padding: 5px;
+  color: black;
+  font-size: 20px;
+}
+
+.subtitulo2{
+  border: 1px solid navy;
+  background: red;
+  padding: 10px;
+  color: white;
+  font-size: 25px;
+}
+
+.grande{
+  width: 400px;
+}
+
+.titulo{
+  border: 1px solid navy;
+  padding: 10px;
+
+}
+
+.tituloColor{
+  background: blue;
+  color: white;
+}
