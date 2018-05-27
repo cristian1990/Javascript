@@ -1,0 +1,23 @@
+html{
+    background: #B3D7E3;
+    font-family: tahoma, verdana, segoe, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
+#laFecha{
+    width: 450px;
+    font-size: 30px;
+    background-color: #a28efd;
+    padding: 15px 5px;
+    border-radius: 5px;
+}
+
+#info{
+    padding: 30px 5px;
+    font-size: 40px;
+    background: #20084d;
+    width: 450px;
+    margin-left: 0x;
+    border-radius: 5px;
+}
